@@ -1,0 +1,21 @@
+{
+  "name": "java-to-js-transpiler",
+  "version": "1.0.0",
+  "description": "A modular code translator (transpiler) from a simple Java-like language (“Mini-Java”) to JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinsonur/java-to-js-transpiler.git"
+  },
+  "author": "Robinson U. Rodríguez",
+  "license": "UNLICENSED",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/robinsonur/java-to-js-transpiler/issues"
+  },
+  "homepage": "https://github.com/robinsonur/java-to-js-transpiler#readme"
+}
